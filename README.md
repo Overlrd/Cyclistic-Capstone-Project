@@ -39,6 +39,7 @@ In summary I made the following changes:
   * user membership status = `casual_menber`
 * Created a column to report duration of each ride
 * Excluded trips lasting less than 1 minute, or over 24 hours
+* Sampled the [data](https://github.com/Overlrd/Cyclistic-Capstone-Project/blob/main/final_cyclistic.csv)
   
   
 ## Analyze
