@@ -6,6 +6,7 @@ A fictional bike-sharing company, **Cyclistic**, has hypothesized that maximizin
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would causal riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
+
 You can find more info [here](https://github.com/Overlrd/Cyclistic-Capstone-Project/blob/main/Case-Study-Cyclistic.pdf)
 
 I will be answering the first question using the 6 steps of data analysis taught in the Google Data Analytics course; ask, prepare, process, analyze, share, and act.
