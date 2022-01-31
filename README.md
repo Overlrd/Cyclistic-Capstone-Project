@@ -33,15 +33,15 @@ In summary I made the following changes:
 * Excluded geographical coordinates
 * Ensured consistency in datatypes across variables
 * Altered variable names
-  * bike used during ride = `bike_type`
-  * user membership status = `user_type`
+  * bike used during ride = `ride_type`
+  * user membership status = `casual_menber`
 * Created a column to report duration of each ride
 * Excluded trips lasting less than 1 minute, or over 24 hours
   
   
 ## Analyze
   
-A full summary of my analysis process can be found [here](https://github.com/madelineyoko/Cyclistic_bikeshare/blob/main/Analysis%20Journal.md).  
+A full summary of my analysis process can be found [here](https://github.com/Overlrd/Cyclistic-Capstone/blob/main/Analysis.R).  
   
 I explored several variables for differences in behaviour between annual members and casual riders:
 * use of bicyle types
