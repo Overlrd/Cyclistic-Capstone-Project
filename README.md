@@ -23,9 +23,8 @@ The data is collected directly from Cyclistic and has been made available by Mot
   
 ## Process (Data Cleaning)
   
-The primary tools for my analysis are Microsoft SQL Server, and Google Sheets.  
+The primary tools for my analysis are R,  and Google Sheets.  
   
-The extensive report for the cleaning process can be found [here](https://github.com/madelineyoko/Cyclistic_bikeshare/blob/main/Cleaning_Report.md).  
 In summary I made the following changes:  
   
 * Removed duplicate rows
